@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "staj_1_SırketUygulaması/1.0.0": {
+        "runtime": {
+          "staj_1_SırketUygulaması.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "staj_1_SırketUygulaması/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

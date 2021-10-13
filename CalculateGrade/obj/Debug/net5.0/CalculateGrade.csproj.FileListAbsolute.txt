@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\CalculateGrade\bin\Debug\net5.0\CalculateGrade.exe
+C:\Users\Asus\source\repos\CalculateGrade\bin\Debug\net5.0\CalculateGrade.deps.json
+C:\Users\Asus\source\repos\CalculateGrade\bin\Debug\net5.0\CalculateGrade.runtimeconfig.json
+C:\Users\Asus\source\repos\CalculateGrade\bin\Debug\net5.0\CalculateGrade.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\CalculateGrade\bin\Debug\net5.0\CalculateGrade.dll
+C:\Users\Asus\source\repos\CalculateGrade\bin\Debug\net5.0\ref\CalculateGrade.dll
+C:\Users\Asus\source\repos\CalculateGrade\bin\Debug\net5.0\CalculateGrade.pdb
+C:\Users\Asus\source\repos\CalculateGrade\obj\Debug\net5.0\CalculateGrade.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\CalculateGrade\obj\Debug\net5.0\CalculateGrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\CalculateGrade\obj\Debug\net5.0\CalculateGrade.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\CalculateGrade\obj\Debug\net5.0\CalculateGrade.AssemblyInfo.cs
+C:\Users\Asus\source\repos\CalculateGrade\obj\Debug\net5.0\CalculateGrade.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\CalculateGrade\obj\Debug\net5.0\CalculateGrade.dll
+C:\Users\Asus\source\repos\CalculateGrade\obj\Debug\net5.0\ref\CalculateGrade.dll
+C:\Users\Asus\source\repos\CalculateGrade\obj\Debug\net5.0\CalculateGrade.pdb
+C:\Users\Asus\source\repos\CalculateGrade\obj\Debug\net5.0\CalculateGrade.genruntimeconfig.cache

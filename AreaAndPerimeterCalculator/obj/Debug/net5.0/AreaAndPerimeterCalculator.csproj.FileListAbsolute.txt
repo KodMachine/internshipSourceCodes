@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\AreaAndPerimeterCalculator\bin\Debug\net5.0\AreaAndPerimeterCalculator.exe
+C:\Users\Asus\source\repos\AreaAndPerimeterCalculator\bin\Debug\net5.0\AreaAndPerimeterCalculator.deps.json
+C:\Users\Asus\source\repos\AreaAndPerimeterCalculator\bin\Debug\net5.0\AreaAndPerimeterCalculator.runtimeconfig.json
+C:\Users\Asus\source\repos\AreaAndPerimeterCalculator\bin\Debug\net5.0\AreaAndPerimeterCalculator.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\AreaAndPerimeterCalculator\bin\Debug\net5.0\AreaAndPerimeterCalculator.dll
+C:\Users\Asus\source\repos\AreaAndPerimeterCalculator\bin\Debug\net5.0\ref\AreaAndPerimeterCalculator.dll
+C:\Users\Asus\source\repos\AreaAndPerimeterCalculator\bin\Debug\net5.0\AreaAndPerimeterCalculator.pdb
+C:\Users\Asus\source\repos\AreaAndPerimeterCalculator\obj\Debug\net5.0\AreaAndPerimeterCalculator.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\AreaAndPerimeterCalculator\obj\Debug\net5.0\AreaAndPerimeterCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\AreaAndPerimeterCalculator\obj\Debug\net5.0\AreaAndPerimeterCalculator.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\AreaAndPerimeterCalculator\obj\Debug\net5.0\AreaAndPerimeterCalculator.AssemblyInfo.cs
+C:\Users\Asus\source\repos\AreaAndPerimeterCalculator\obj\Debug\net5.0\AreaAndPerimeterCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\AreaAndPerimeterCalculator\obj\Debug\net5.0\AreaAndPerimeterCalculator.dll
+C:\Users\Asus\source\repos\AreaAndPerimeterCalculator\obj\Debug\net5.0\ref\AreaAndPerimeterCalculator.dll
+C:\Users\Asus\source\repos\AreaAndPerimeterCalculator\obj\Debug\net5.0\AreaAndPerimeterCalculator.pdb
+C:\Users\Asus\source\repos\AreaAndPerimeterCalculator\obj\Debug\net5.0\AreaAndPerimeterCalculator.genruntimeconfig.cache

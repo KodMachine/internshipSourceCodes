@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\staj_1_SırketUygulaması\bin\Debug\net5.0\staj_1_SırketUygulaması.exe
+C:\Users\Asus\source\repos\staj_1_SırketUygulaması\bin\Debug\net5.0\staj_1_SırketUygulaması.deps.json
+C:\Users\Asus\source\repos\staj_1_SırketUygulaması\bin\Debug\net5.0\staj_1_SırketUygulaması.runtimeconfig.json
+C:\Users\Asus\source\repos\staj_1_SırketUygulaması\bin\Debug\net5.0\staj_1_SırketUygulaması.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\staj_1_SırketUygulaması\bin\Debug\net5.0\staj_1_SırketUygulaması.dll
+C:\Users\Asus\source\repos\staj_1_SırketUygulaması\bin\Debug\net5.0\ref\staj_1_SırketUygulaması.dll
+C:\Users\Asus\source\repos\staj_1_SırketUygulaması\bin\Debug\net5.0\staj_1_SırketUygulaması.pdb
+C:\Users\Asus\source\repos\staj_1_SırketUygulaması\obj\Debug\net5.0\staj_1_SırketUygulaması.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\staj_1_SırketUygulaması\obj\Debug\net5.0\staj_1_SırketUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\staj_1_SırketUygulaması\obj\Debug\net5.0\staj_1_SırketUygulaması.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\staj_1_SırketUygulaması\obj\Debug\net5.0\staj_1_SırketUygulaması.AssemblyInfo.cs
+C:\Users\Asus\source\repos\staj_1_SırketUygulaması\obj\Debug\net5.0\staj_1_SırketUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\staj_1_SırketUygulaması\obj\Debug\net5.0\staj_1_SırketUygulaması.dll
+C:\Users\Asus\source\repos\staj_1_SırketUygulaması\obj\Debug\net5.0\ref\staj_1_SırketUygulaması.dll
+C:\Users\Asus\source\repos\staj_1_SırketUygulaması\obj\Debug\net5.0\staj_1_SırketUygulaması.pdb
+C:\Users\Asus\source\repos\staj_1_SırketUygulaması\obj\Debug\net5.0\staj_1_SırketUygulaması.genruntimeconfig.cache
