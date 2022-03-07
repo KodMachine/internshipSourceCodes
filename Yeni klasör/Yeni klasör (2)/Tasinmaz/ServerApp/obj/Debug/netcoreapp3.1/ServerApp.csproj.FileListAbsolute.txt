@@ -1,0 +1,287 @@
+C:\Users\papatya\Desktop\SocialApp\ServerApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\papatya\Desktop\SocialApp\ServerApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\papatya\Desktop\SocialApp\ServerApp\bin\Debug\netcoreapp3.1\global.json
+C:\Users\papatya\Desktop\SocialApp\ServerApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\papatya\Desktop\SocialApp\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.exe
+C:\Users\papatya\Desktop\SocialApp\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.deps.json
+C:\Users\papatya\Desktop\SocialApp\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.runtimeconfig.json
+C:\Users\papatya\Desktop\SocialApp\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.runtimeconfig.dev.json
+C:\Users\papatya\Desktop\SocialApp\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.dll
+C:\Users\papatya\Desktop\SocialApp\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.pdb
+C:\Users\papatya\Desktop\SocialApp\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.csprojAssemblyReference.cache
+C:\Users\papatya\Desktop\SocialApp\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.AssemblyInfoInputs.cache
+C:\Users\papatya\Desktop\SocialApp\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.AssemblyInfo.cs
+C:\Users\papatya\Desktop\SocialApp\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.csproj.CoreCompileInputs.cache
+C:\Users\papatya\Desktop\SocialApp\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\papatya\Desktop\SocialApp\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.RazorTargetAssemblyInfo.cache
+C:\Users\papatya\Desktop\SocialApp\ServerApp\obj\Debug\netcoreapp3.1\staticwebassets\ServerApp.StaticWebAssets.Manifest.cache
+C:\Users\papatya\Desktop\SocialApp\ServerApp\obj\Debug\netcoreapp3.1\staticwebassets\ServerApp.StaticWebAssets.xml
+C:\Users\papatya\Desktop\SocialApp\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.dll
+C:\Users\papatya\Desktop\SocialApp\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.pdb
+C:\Users\papatya\Desktop\SocialApp\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.genruntimeconfig.cache
+C:\Users\papatya\Desktop\SocialApp\ServerApp\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\papatya\Desktop\SocialApp\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\papatya\Desktop\SocialApp\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\papatya\Desktop\SocialApp\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\papatya\Desktop\SocialApp\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\papatya\Desktop\SocialApp\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\papatya\Desktop\SocialApp\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\papatya\Desktop\SocialApp\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\papatya\Desktop\SocialApp\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\papatya\Desktop\SocialApp\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\papatya\Desktop\SocialApp\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\papatya\Desktop\SocialApp\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\papatya\Desktop\SocialApp\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\papatya\Desktop\SocialApp\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\papatya\Desktop\SocialApp\ServerApp\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\papatya\Desktop\SocialApp\ServerApp\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\papatya\Desktop\SocialApp\ServerApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\papatya\Desktop\SocialApp\ServerApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\papatya\Desktop\SocialApp\ServerApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\papatya\Desktop\SocialApp\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.csproj.CopyComplete
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\global.json
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.exe
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.deps.json
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.runtimeconfig.json
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.runtimeconfig.dev.json
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.dll
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.pdb
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.csprojAssemblyReference.cache
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.AssemblyInfoInputs.cache
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.AssemblyInfo.cs
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.csproj.CoreCompileInputs.cache
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.RazorTargetAssemblyInfo.cache
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.csproj.CopyComplete
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\staticwebassets\ServerApp.StaticWebAssets.Manifest.cache
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\staticwebassets\ServerApp.StaticWebAssets.xml
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.dll
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.pdb
+C:\Users\papatya\Desktop\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\global.json
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.exe
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.deps.json
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.runtimeconfig.json
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.dll
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.pdb
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.csproj.CopyComplete
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\staticwebassets\ServerApp.StaticWebAssets.Manifest.cache
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\staticwebassets\ServerApp.StaticWebAssets.xml
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.dll
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.pdb
+C:\Users\Asus\Desktop\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.genruntimeconfig.cache
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.csprojAssemblyReference.cache
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.AssemblyInfoInputs.cache
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.AssemblyInfo.cs
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.csproj.CoreCompileInputs.cache
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.dll
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.pdb
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\global.json
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.exe
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.deps.json
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.runtimeconfig.json
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.runtimeconfig.dev.json
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.dll
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.pdb
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.RazorTargetAssemblyInfo.cache
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.csproj.CopyComplete
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\staticwebassets\ServerApp.StaticWebAssets.Manifest.cache
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\staticwebassets\ServerApp.StaticWebAssets.xml
+C:\Users\papatya\Desktop\Taşınmazlar\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\global.json
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.exe
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.deps.json
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.runtimeconfig.json
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.dll
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.pdb
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.csproj.CopyComplete
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\staticwebassets\ServerApp.StaticWebAssets.Manifest.cache
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\staticwebassets\ServerApp.StaticWebAssets.xml
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.dll
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.pdb
+C:\Users\Asus\Desktop\Yeni klasör\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.genruntimeconfig.cache
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\global.json
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.exe
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.deps.json
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.runtimeconfig.json
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.runtimeconfig.dev.json
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.dll
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.pdb
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.csprojAssemblyReference.cache
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.AssemblyInfoInputs.cache
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.AssemblyInfo.cs
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.csproj.CoreCompileInputs.cache
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.RazorTargetAssemblyInfo.cache
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.csproj.CopyComplete
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\staticwebassets\ServerApp.StaticWebAssets.Manifest.cache
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\staticwebassets\ServerApp.StaticWebAssets.xml
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.dll
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.pdb
+C:\Users\papatya\Desktop\Taşınmazlar2\Tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\global.json
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.exe
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.deps.json
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.runtimeconfig.json
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.dll
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.pdb
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.csproj.CopyComplete
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\staticwebassets\ServerApp.StaticWebAssets.Manifest.cache
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\staticwebassets\ServerApp.StaticWebAssets.xml
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.dll
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.pdb
+C:\Users\Asus\Desktop\Yeni klasör (2)\tasinmaz\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.genruntimeconfig.cache

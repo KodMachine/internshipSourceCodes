@@ -1,0 +1,41 @@
+
+    <form  (ngSubmit)="onFilter()">
+      <div class="form-group">
+        <button type="submit" class="btn btn-success">Ara</button>
+        <input type="text" [(ngModel)]="filter" class="form-control" name="filter" placeholder="Ara">
+      </div>
+    </form>
+    
+<div>
+  <button class="btn btn-outline-info" (click)="report()">Raporla</button>
+</div>
+  <table class="table table-striped table-bordered table-hover mt-3">
+    <thead>
+
+      <th>Açıklama</th>
+      <th>Detay</th>
+      <th>Durum</th>
+      <th>Tarih/Saat</th>
+      <th>IP</th>
+
+    </thead>
+    <tbody>
+      <tr *ngFor="let l of log; index as i;">
+        <td >{{l.explanation}}</td>
+        <td>{{l.detail}}</td>
+        <td>{{isSuccess(l.proccesSuccess)}}</td>
+        <td>{{l.dateHour}}</td>
+        <td>{{l.ip}}</td>
+      </tr>
+
+    </tbody>
+    
+  </table>
+  
+  <nav aria-label="Page navigation example">
+    <ul class="pagination">
+      <li class="page-item"><a class="page-link" (click)="priviousPage()">Previous</a></li>
+      <li class="page-item"><a class="page-link" >{{Page}}</a></li>
+      <li class="page-item"><a class="page-link" (click)="nextPage()">Next</a></li>
+    </ul>
+  </nav>

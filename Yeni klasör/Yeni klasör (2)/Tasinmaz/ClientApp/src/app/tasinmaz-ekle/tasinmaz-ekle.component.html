@@ -1,0 +1,37 @@
+<form [formGroup]="ekleForm" (ngSubmit)="onFormSubmit()">
+
+<select class='form-group' style="margin-left: 100px; " #mySelect (change)='getIlces(mySelect.value)'>
+  <option selected>Seçiniz</option>
+  <option class='option' *ngFor='let il of Ils' [value]="il.ilId">{{il.ilName}}</option>
+</select>
+
+<select class='form-group' style="margin-left: 100px;" #mySelect1 (change)='getMahalles(mySelect1.value)'>
+  <option selected>Seçiniz</option>
+  <option class='option' *ngFor='let ilce of Ilce' [value]="ilce.ilceId">{{ilce.ilceName}}</option>
+</select>
+
+
+<select class='form-group' formControlName="Mahalle" style="margin-left: 100px;" #mySelect2>
+  <option selected>Seçiniz</option>
+  <option class='option' *ngFor='let mahalle of Mahalles' [value]="mahalle.mahalleId">{{mahalle.mahalleName}}</option>
+</select>
+
+  <div class="form-group">
+    <label for="exampleInputEmail1">Ada</label>
+    <input type="number" formControlName="Ada" class="form-control" placeholder="ada girin">
+  </div>
+  <div class="form-group">
+    <label for="exampleInputEmail1">Parsel</label>
+    <input type="number" formControlName="Parsel" class="form-control" placeholder="parsel girin">
+  </div>
+  <div class="form-group">
+    <label for="exampleInputEmail1">Nitelik</label>
+    <input type="text" formControlName="Nitelik" class="form-control" placeholder="nitelik girin">
+  </div>
+  <div class="form-group">
+    <label for="exampleInputPassword1">Adres</label>
+    <input type="text" formControlName="Adres" class="form-control" placeholder="adres girin">
+  </div>
+
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
